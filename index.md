@@ -1,91 +1,113 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Marek Grochowski
+Pre Sales Manager at IVU Traffic Technologies
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="MarekGrochowski@web.de">MarekGrochowski@web.de</a>
 </div>
 
+## Experience
 
-## Currently
+`November 2020 - Present, Berlin, Germany`
 
-Standing on the shoulders of giants
+__Pre Sales Manager__, IVU Traffic Technologies
 
-### Specialized in
+- Preparation and presentation of Software sales pitches for customers worldwide
+- Company representations and product presentations on Trade fairs and conferences worldwide
+- Implementation of Software proof of concepts for customers worldwide
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`January 2019 - October 2020, London, United Kingdom`
+
+__Project Manager__, IVU Traffic Technologies
+
+- Implementation of a large software project on customer's site
+- On-site support of further local customers
+- Preparation and presentation of Software sales pitches for customers worldwide
+- Company representations and product presentations on Trade fairs and Conferences worldwide
+
+`January 2016 - December 2018, Berlin, Germany`
+
+__Senior Sales Engineer__, IVU Traffic Technologies
+
+- Preparation and presentation of Software sales pitches for customers worldwide
+- Company representations and product presentations on Trade fairs and conferences worldwide
+- Implementation of Software proof of concepts for customers worldwide
+
+`August 2011 - December 2015, Berlin, Germany`
+
+__Project Engineer__, IVU Traffic Technologies
+
+- Project Management: Implementation of railway planning and dispatching systems in Finland, Switzerland and Germany
+- Information modeling and software solution specification
+- Marketing and customer acquisition activities
+
+`August 2006 - July 2011, Berlin, Germany`
+
+__Research Assistant__, Berlin University of Technology
+
+- Teaching courses: Rail freight transport, Planning of railway systems, Production planning in public transport
+- Managing research projects
+- Marketing and customer acquisition
+- System administration.
+
+`October 2003 - July 2006, Berlin, Germany`
+
+__Student Research Assistant__, Berlin University of Technology
+
+- Programming tools: Measuring tool for transport flows analysis, Tool for operating control in public transport
+- Assistance in research projects for public transport analysis and railway infrastructure improvement
+
+`July 2004 - October 2004, Bern, Switzerland`
+
+__Project Trainee__, BLS Cargo AG
+
+- Analysis of data interfaces in international rail freight traffic
+- Modeling of interface definitions for rail freight production data base.
+
+`July 2004 - October 2004, Potsdam, Germany`
+
+__Project Trainee__, ViP Verkehrsbetrieb Potsdam GmbH
+
+- Route analysis in public transport
+- Optimization of passenger information on construction works
+
+`May 2003, Potsdam, Germany`
+
+__Project Trainee__, Connex Regiobahn GmbH
+
+- Creating CRM database for passenger sales activities
+
+## Voluntary
+
+`December 2013 - Present, Berlin, Germany`
+
+__Public Address Announcer__, TuS Lichterfelde, Women and Men Hockey (Major Divison)
+
+`October 2006 - April 2010, Potsdam, Germany`
+
+__Public Address Announcer__, SC Potsdam, Women Volleyball (Major Divison)
+
+`October 1999 - May 2003, Potsdam, Germany`
+
+__Public Address Announcer__, Turbine Potsdam, Women Soccer (Major Divison)
 
 
-### Research interests
+## Skills
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Software Project Management
+- Requirements Analysis
+- Project management
+- Software Development (C#, VB, Python, Java, JS)
+- Railway and Transport System Planning and Operation
+- Public Address Announcing
 
+## Languages
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- German, Native
+- English, Full Professional
+- Russian, Limited Working
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: 2023-02-07 -->
 
 
