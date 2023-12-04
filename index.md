@@ -1,5 +1,5 @@
 # Marek Grochowski
-Pre Sales Manager at IVU Traffic Technologies
+Sales Manager at IVU Traffic Technologies
 
 <div id="webaddress">
 <a href="MarekGrochowski@web.de">MarekGrochowski@web.de</a>
