@@ -1,0 +1,6 @@
+{
+	"markdown-pdf.displayHeaderFooter": false,
+	"markdown-pdf.margin.right": "1.5cm",
+	"markdown-pdf.margin.bottom": "1.5cm",
+	"markdown-pdf.convertOnSave": true
+}

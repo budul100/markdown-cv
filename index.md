@@ -7,7 +7,20 @@ Pre Sales Manager at IVU Traffic Technologies
 
 ## Experience
 
-`November 2020 - Present, Berlin, Germany`
+`September 2023 - Present, Berlin, Germany`
+
+__Sales Lead North America__, IVU Traffic Technologies
+
+- Preparation and presentation of Software sales pitches
+- Implementation of Software proof of concepts
+
+`June 2023 - August 2023, Toronto, Canada`
+
+__Project Manager__, IVU Traffic Technologies
+
+- Implementation of a large software project on customer's site
+
+`November 2020 - May 2023, Berlin, Germany`
 
 __Pre Sales Manager__, IVU Traffic Technologies
 
@@ -108,6 +121,4 @@ __Public Address Announcer__, Turbine Potsdam, Women Soccer (Major Divison)
 
 <!-- ### Footer
 
-Last updated: 2023-02-07 -->
-
-
+Last updated: 2023-12-04 -->
